@@ -13,6 +13,8 @@ The purpose of this project was to create an interactive dashboard that displaye
 
 ## Deliverable 4. Dashboard.
 
+Completed dashboard is published at https://lerok3108.github.io/bellybutton-biodiversity/
+
 
 
 
